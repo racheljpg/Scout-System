@@ -1,0 +1,18 @@
+<object-stream>
+  <list>
+    <Division>
+      <divisionName>Kilkenny</divisionName>
+      <divisionAddress>Kilkenny</divisionAddress>
+      <divisionEmail>kilkenny@scouts.ie</divisionEmail>
+      <divisionPhone>0567777777</divisionPhone>
+      <divisionLeader>Mary Byrne</divisionLeader>
+    </Division>
+    <Division>
+      <divisionName>Waterford</divisionName>
+      <divisionAddress>Waterford</divisionAddress>
+      <divisionEmail>waterford@scouts.ie</divisionEmail>
+      <divisionPhone>0517777777</divisionPhone>
+      <divisionLeader>John Murphy</divisionLeader>
+    </Division>
+  </list>
+</object-stream>

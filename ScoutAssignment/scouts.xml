@@ -1,0 +1,36 @@
+<object-stream>
+  <list>
+    <Scout>
+      <division>
+        <divisionName>Kilkenny</divisionName>
+        <divisionAddress>Kilkenny</divisionAddress>
+        <divisionEmail>kilkenny@scouts.ie</divisionEmail>
+        <divisionPhone>0567777777</divisionPhone>
+        <divisionLeader>Mary Byrne</divisionLeader>
+      </division>
+      <Firstname>Rachel</Firstname>
+      <Surname>Ryan</Surname>
+      <gender>F</gender>
+      <address>Kilkenny</address>
+      <dayOfBirth>5</dayOfBirth>
+      <monthOfBirth>12</monthOfBirth>
+      <yearOfBirth>1997</yearOfBirth>
+    </Scout>
+    <Scout>
+      <division>
+        <divisionName>Waterford</divisionName>
+        <divisionAddress>Waterford</divisionAddress>
+        <divisionEmail>waterford@scouts.ie</divisionEmail>
+        <divisionPhone>0517777777</divisionPhone>
+        <divisionLeader>John Murphy</divisionLeader>
+      </division>
+      <Firstname>John</Firstname>
+      <Surname>Murphy</Surname>
+      <gender>M</gender>
+      <address>Waterford</address>
+      <dayOfBirth>20</dayOfBirth>
+      <monthOfBirth>3</monthOfBirth>
+      <yearOfBirth>1980</yearOfBirth>
+    </Scout>
+  </list>
+</object-stream>
